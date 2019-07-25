@@ -1,4 +1,4 @@
-# SIA-App-Challenge
+# SIA-App-Challenge 2019
 
 ### Overview
 A list of top Code Patterns, broken down the various problem statements, to aid in the development of applications for the Singapore Airlines AppChallenge 2019!
